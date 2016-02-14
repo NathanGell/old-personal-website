@@ -1,3 +1,5 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/njgell/pen/avNggY.
+A project about myslef by myslef.
 
- Building a single page portfolio website. Theme based on http://ironsummitmedia.github.io/startbootstrap-freelancer/
+This website contains the best side of me. Everything I am proud to share. 
+
+You can view it over at <nathangell.com>
